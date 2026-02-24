@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to my page
+
+你好，这是我的博客
 
 _yay_
 
